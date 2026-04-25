@@ -1,0 +1,201 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,TV Show,Show C 1,Director 1,"Actor 1, Actor 2",UK,,2000,R,172 min,Drama
+s2,TV Show,Movie E 2,Director 2,"Actor 2, Actor 3",USA,2020-05-14,2022,TV-14,5 Seasons,Drama
+s3,Movie,Show D 3,Director 3,"Actor 3, Actor 4",India,,2016,R,129 min,Comedy
+s4,Movie,Show C 4,Director 4,"Actor 4, Actor 5",USA,2020-08-14,2022,PG,91 min,Comedy
+s5,TV Show,Movie B 5,Director 5,"Actor 5, Actor 6",,2020-02-06,2020,PG,,Comedy
+s6,TV Show,Movie E 6,Director 6,"Actor 6, Actor 7",Canada,2020-08-01,2013,TV-14,178 min,Thriller
+s7,Movie,Show D 7,Director 7,,India,2020-05-27,2022,R,109 min,Sci-Fi
+s8,Movie,Show D 8,Director 8,"Actor 8, Actor 9",UK,,2001,TV-MA,168 min,Thriller
+s9,Movie,Movie A 9,Director 9,"Actor 9, Actor 10",India,2020-04-02,2013,TV-14,3 Seasons,Sci-Fi
+s10,TV Show,Movie A 10,Director 10,,India,2020-10-04,2015,TV-14,1 Seasons,Action
+s11,Movie,Show D 11,Director 11,"Actor 11, Actor 12",,2020-08-28,2003,TV-14,3 Seasons,Sci-Fi
+s12,TV Show,Show C 12,Director 12,"Actor 12, Actor 13",India,2020-10-08,2003,TV-MA,,Thriller
+s13,TV Show,Show C 13,Director 13,"Actor 13, Actor 14",UK,2020-05-04,2005,PG-13,128 min,
+s14,Movie,Show D 14,Director 14,"Actor 14, Actor 15",UK,2020-06-28,2007,PG-13,4 Seasons,
+s15,TV Show,Movie A 15,,"Actor 15, Actor 16",USA,2020-05-04,2008,PG-13,111 min,Comedy
+s16,TV Show,Show C 16,Director 16,"Actor 16, Actor 17",USA,2020-12-25,2010,PG,5 Seasons,Sci-Fi
+s17,TV Show,Movie E 17,Director 17,,Canada,2020-06-25,2016,PG,,Sci-Fi
+s18,Movie,Movie B 18,Director 18,"Actor 18, Actor 19",India,2020-10-08,2008,PG,4 Seasons,Action
+s19,Movie,Movie E 19,Director 19,"Actor 19, Actor 20",India,2020-04-16,2010,TV-MA,3 Seasons,Action
+s20,TV Show,Show C 20,Director 20,"Actor 20, Actor 21",UK,2020-04-22,2020,PG,5 Seasons,Comedy
+s21,TV Show,Show C 21,Director 21,,India,2020-07-14,2010,PG,,Thriller
+s22,TV Show,Movie B 22,Director 22,"Actor 22, Actor 23",Canada,2020-06-12,2002,R,,Drama
+s23,TV Show,Movie B 23,Director 23,"Actor 23, Actor 24",UK,2020-03-23,2020,,5 Seasons,Action
+s24,TV Show,Movie A 24,Director 24,"Actor 24, Actor 25",,2020-07-26,2012,PG,1 Seasons,
+s25,Movie,Movie A 25,Director 25,"Actor 25, Actor 26",India,2020-01-15,2018,PG-13,4 Seasons,Comedy
+s26,TV Show,Show D 26,,,,,2022,PG,2 Seasons,Action
+s27,TV Show,Show D 27,Director 27,"Actor 27, Actor 28",India,2020-03-05,2009,R,5 Seasons,Action
+s28,Movie,Movie A 28,Director 28,,UK,2020-07-12,2010,PG-13,,Action
+s29,Movie,Movie E 29,,,,2020-06-02,2009,R,,Drama
+s30,TV Show,Show C 30,Director 30,"Actor 30, Actor 31",,2020-09-24,2014,,,
+s31,TV Show,Movie B 31,Director 31,"Actor 31, Actor 32",India,,2009,PG,170 min,Drama
+s32,TV Show,Show D 32,Director 32,"Actor 32, Actor 33",Canada,2020-04-19,2020,TV-14,3 Seasons,Action
+s33,Movie,Movie E 33,Director 33,"Actor 33, Actor 34",India,2020-09-26,2022,PG,1 Seasons,Sci-Fi
+s34,TV Show,Movie E 34,,"Actor 34, Actor 35",India,2020-12-02,2010,TV-MA,3 Seasons,
+s35,Movie,Show C 35,Director 35,,,2020-11-23,2005,R,114 min,Action
+s36,TV Show,Movie B 36,Director 36,"Actor 36, Actor 37",,,2018,,162 min,Sci-Fi
+s37,Movie,Show C 37,Director 37,"Actor 37, Actor 38",,2020-11-17,2021,,,
+s38,Movie,Movie A 38,Director 38,,,2020-09-10,2005,,,Action
+s39,TV Show,Movie B 39,Director 39,"Actor 39, Actor 40",,2020-08-09,2017,PG,1 Seasons,Drama
+s40,TV Show,Movie A 40,Director 40,"Actor 40, Actor 41",UK,,2016,TV-MA,,Drama
+s41,Movie,Movie A 41,,"Actor 41, Actor 42",USA,2020-11-21,2004,R,3 Seasons,Thriller
+s42,Movie,Movie A 42,Director 42,"Actor 42, Actor 43",USA,2020-04-20,2017,TV-14,130 min,Comedy
+s43,Movie,Movie E 43,,"Actor 43, Actor 44",India,2020-02-28,2008,,4 Seasons,Thriller
+s44,TV Show,Movie A 44,Director 44,"Actor 44, Actor 45",USA,2020-02-20,2012,R,5 Seasons,Action
+s45,TV Show,Movie E 45,Director 45,,USA,2020-07-26,2001,TV-14,2 Seasons,
+s46,TV Show,Movie B 46,Director 46,,India,2020-12-25,2016,R,,Action
+s47,Movie,Movie B 47,Director 47,"Actor 47, Actor 48",Canada,2020-04-28,2019,TV-MA,,
+s48,TV Show,Movie A 48,Director 48,"Actor 48, Actor 49",USA,2020-03-27,2005,TV-MA,4 Seasons,Drama
+s49,Movie,Movie A 49,,,Canada,2020-01-18,2014,TV-14,,Comedy
+s50,Movie,Show C 50,,"Actor 50, Actor 51",USA,2020-09-24,2010,PG-13,130 min,Drama
+s51,TV Show,Movie E 51,Director 51,"Actor 51, Actor 52",,2020-03-08,2014,,,Thriller
+s52,Movie,Show C 52,,,USA,2020-03-24,2004,PG,82 min,Drama
+s53,Movie,Show D 53,Director 53,"Actor 53, Actor 54",Canada,2020-07-20,2009,,3 Seasons,Comedy
+s54,Movie,Movie A 54,Director 54,"Actor 54, Actor 55",India,2020-05-24,2006,PG,86 min,
+s55,TV Show,Movie A 55,Director 55,"Actor 55, Actor 56",USA,2020-05-15,2020,R,,Sci-Fi
+s56,TV Show,Show D 56,Director 56,,UK,,2011,PG,,Drama
+s57,TV Show,Movie A 57,Director 57,"Actor 57, Actor 58",,2020-04-22,2000,PG,,Action
+s58,Movie,Show C 58,Director 58,"Actor 58, Actor 59",Canada,2020-01-11,2011,,1 Seasons,
+s59,Movie,Show C 59,,,UK,2020-09-18,2007,,3 Seasons,Action
+s60,Movie,Movie E 60,,"Actor 60, Actor 61",USA,,2023,PG-13,,Action
+s61,TV Show,Movie A 61,,"Actor 61, Actor 62",India,2020-01-17,2000,PG,3 Seasons,
+s62,Movie,Show D 62,Director 62,"Actor 62, Actor 63",Canada,2020-09-13,2023,TV-14,99 min,Thriller
+s63,Movie,Show D 63,Director 63,"Actor 63, Actor 64",USA,2020-10-22,2001,PG-13,3 Seasons,
+s64,Movie,Show C 64,Director 64,"Actor 64, Actor 65",Canada,2020-10-03,2010,TV-MA,3 Seasons,Thriller
+s65,Movie,Show C 65,,"Actor 65, Actor 66",Canada,2020-10-07,2011,PG-13,2 Seasons,Sci-Fi
+s66,TV Show,Show D 66,,,USA,2020-05-23,2017,PG,1 Seasons,Sci-Fi
+s67,Movie,Show C 67,,"Actor 67, Actor 68",USA,,2009,TV-14,,Comedy
+s68,Movie,Movie E 68,,"Actor 68, Actor 69",,2020-04-03,2013,R,,Drama
+s69,Movie,Movie B 69,,"Actor 69, Actor 70",UK,2020-06-11,2004,,3 Seasons,Sci-Fi
+s70,TV Show,Show D 70,Director 70,,Canada,,2015,TV-14,,
+s71,TV Show,Movie B 71,Director 71,,USA,2020-07-07,2000,PG-13,166 min,Sci-Fi
+s72,Movie,Show D 72,Director 72,"Actor 72, Actor 73",India,,2015,TV-14,97 min,Action
+s73,Movie,Movie B 73,,"Actor 73, Actor 74",,2020-07-21,2014,TV-14,164 min,Action
+s74,TV Show,Movie B 74,Director 74,,USA,2020-02-14,2022,PG,1 Seasons,
+s75,Movie,Show C 75,,"Actor 75, Actor 76",India,2020-12-01,2002,R,119 min,Sci-Fi
+s76,Movie,Movie B 76,,"Actor 76, Actor 77",,2020-01-14,2005,,1 Seasons,Thriller
+s77,TV Show,Movie A 77,Director 77,"Actor 77, Actor 78",,2020-10-17,2007,PG,82 min,Thriller
+s78,Movie,Movie A 78,Director 78,"Actor 78, Actor 79",USA,,2001,TV-MA,112 min,Thriller
+s79,TV Show,Show C 79,Director 79,"Actor 79, Actor 80",UK,,2020,,131 min,Thriller
+s80,Movie,Show D 80,Director 80,,Canada,2020-01-26,2003,PG-13,4 Seasons,Comedy
+s81,TV Show,Movie E 81,Director 81,"Actor 81, Actor 82",Canada,2020-06-01,2020,PG,3 Seasons,Comedy
+s82,TV Show,Movie A 82,Director 82,"Actor 82, Actor 83",USA,,2006,PG,168 min,Thriller
+s83,Movie,Show D 83,Director 83,"Actor 83, Actor 84",USA,,2006,TV-MA,82 min,
+s84,Movie,Show C 84,Director 84,"Actor 84, Actor 85",UK,2020-01-09,2018,R,2 Seasons,Drama
+s85,Movie,Show C 85,Director 85,"Actor 85, Actor 86",USA,2020-11-27,2014,TV-14,5 Seasons,Comedy
+s86,TV Show,Show C 86,Director 86,,,2020-09-27,2002,,4 Seasons,Drama
+s87,TV Show,Show C 87,Director 87,"Actor 87, Actor 88",UK,2020-05-25,2004,,5 Seasons,Thriller
+s88,TV Show,Movie A 88,Director 88,"Actor 88, Actor 89",,2020-08-11,2009,PG,,Thriller
+s89,Movie,Movie A 89,Director 89,"Actor 89, Actor 90",,2020-03-21,2023,R,4 Seasons,Sci-Fi
+s90,Movie,Movie E 90,Director 90,"Actor 90, Actor 91",India,2020-10-26,2017,,,Action
+s91,TV Show,Show C 91,,"Actor 91, Actor 92",USA,2020-02-21,2010,TV-MA,,Action
+s92,TV Show,Movie A 92,,"Actor 92, Actor 93",UK,2020-09-20,2009,TV-14,171 min,
+s93,Movie,Movie E 93,Director 93,"Actor 93, Actor 94",Canada,2020-02-22,2001,TV-14,3 Seasons,Sci-Fi
+s94,TV Show,Movie A 94,Director 94,"Actor 94, Actor 95",USA,2020-02-07,2015,,99 min,Comedy
+s95,Movie,Movie B 95,Director 95,"Actor 95, Actor 96",Canada,2020-08-25,2020,PG-13,2 Seasons,
+s96,TV Show,Show C 96,Director 96,"Actor 96, Actor 97",Canada,2020-07-16,2013,PG,2 Seasons,Action
+s97,Movie,Movie E 97,Director 97,"Actor 97, Actor 98",Canada,,2012,PG-13,5 Seasons,
+s98,TV Show,Movie A 98,Director 98,"Actor 98, Actor 99",,2020-04-08,2011,R,127 min,Thriller
+s99,Movie,Show C 99,Director 99,,,2020-11-19,2004,TV-MA,4 Seasons,
+s100,TV Show,Movie E 100,Director 100,"Actor 100, Actor 101",,,2021,PG,132 min,Thriller
+s101,Movie,Movie A 101,Director 101,"Actor 101, Actor 102",,2020-01-20,2015,R,1 Seasons,Sci-Fi
+s102,TV Show,Movie E 102,Director 102,"Actor 102, Actor 103",USA,,2005,R,,Drama
+s103,Movie,Show D 103,Director 103,"Actor 103, Actor 104",USA,2020-11-11,2000,TV-MA,170 min,
+s104,TV Show,Show C 104,Director 104,"Actor 104, Actor 105",Canada,2020-05-20,2008,TV-MA,5 Seasons,
+s105,TV Show,Movie A 105,Director 105,"Actor 105, Actor 106",USA,2020-07-21,2010,PG,,Sci-Fi
+s106,TV Show,Show D 106,Director 106,"Actor 106, Actor 107",USA,2020-03-05,2017,PG-13,5 Seasons,
+s107,TV Show,Show C 107,Director 107,"Actor 107, Actor 108",USA,,2003,,,Thriller
+s108,Movie,Movie A 108,,"Actor 108, Actor 109",UK,2020-02-19,2019,R,136 min,Drama
+s109,TV Show,Movie E 109,Director 109,"Actor 109, Actor 110",,2020-05-28,2006,,117 min,Comedy
+s110,TV Show,Movie B 110,Director 110,,UK,2020-02-08,2006,PG,140 min,
+s111,Movie,Show D 111,Director 111,"Actor 111, Actor 112",India,2020-08-24,2007,TV-MA,112 min,Action
+s112,Movie,Movie E 112,Director 112,"Actor 112, Actor 113",USA,2020-06-13,2002,TV-14,,
+s113,Movie,Movie B 113,,"Actor 113, Actor 114",USA,,2022,PG,1 Seasons,Action
+s114,Movie,Movie B 114,,"Actor 114, Actor 115",India,2020-11-28,2008,PG,2 Seasons,Comedy
+s115,TV Show,Movie E 115,Director 115,,UK,2020-11-17,2006,PG,171 min,Comedy
+s116,TV Show,Show C 116,Director 116,"Actor 116, Actor 117",India,2020-04-09,2009,,4 Seasons,
+s117,Movie,Show D 117,Director 117,"Actor 117, Actor 118",,2020-11-05,2017,PG,179 min,Action
+s118,Movie,Movie A 118,Director 118,"Actor 118, Actor 119",India,,2010,TV-14,102 min,Thriller
+s119,Movie,Show C 119,,"Actor 119, Actor 120",,,2023,TV-14,170 min,Comedy
+s120,Movie,Movie E 120,Director 120,"Actor 120, Actor 121",India,2020-08-01,2020,,5 Seasons,Action
+s121,TV Show,Show C 121,Director 121,"Actor 121, Actor 122",,2020-01-16,2009,TV-MA,4 Seasons,Comedy
+s122,TV Show,Movie E 122,Director 122,"Actor 122, Actor 123",UK,2020-12-03,2016,PG-13,3 Seasons,Thriller
+s123,Movie,Movie E 123,Director 123,"Actor 123, Actor 124",India,2020-06-03,2016,PG,4 Seasons,Action
+s124,TV Show,Show C 124,Director 124,"Actor 124, Actor 125",Canada,2020-09-13,2004,,2 Seasons,Drama
+s125,Movie,Show C 125,Director 125,"Actor 125, Actor 126",UK,2020-06-12,2015,R,109 min,Action
+s126,TV Show,Movie A 126,,"Actor 126, Actor 127",Canada,2020-06-05,2009,R,3 Seasons,Thriller
+s127,TV Show,Show C 127,Director 127,"Actor 127, Actor 128",Canada,2020-11-16,2023,,,Comedy
+s128,TV Show,Movie A 128,Director 128,"Actor 128, Actor 129",Canada,2020-06-07,2000,TV-MA,128 min,Comedy
+s129,TV Show,Movie B 129,Director 129,,UK,2020-07-04,2014,TV-14,110 min,Comedy
+s130,Movie,Movie A 130,Director 130,"Actor 130, Actor 131",,2020-08-09,2005,TV-14,115 min,
+s131,TV Show,Show C 131,Director 131,"Actor 131, Actor 132",UK,,2008,R,4 Seasons,Thriller
+s132,TV Show,Movie A 132,,"Actor 132, Actor 133",USA,,2014,TV-14,5 Seasons,Drama
+s133,Movie,Movie E 133,Director 133,"Actor 133, Actor 134",India,2020-07-26,2011,,106 min,Thriller
+s134,TV Show,Show C 134,Director 134,,USA,,2016,TV-14,,Action
+s135,Movie,Movie B 135,Director 135,"Actor 135, Actor 136",,2020-02-25,2012,PG-13,1 Seasons,Drama
+s136,Movie,Show D 136,Director 136,"Actor 136, Actor 137",Canada,2020-05-15,2021,TV-MA,,Thriller
+s137,Movie,Movie E 137,Director 137,,USA,2020-06-21,2002,R,,Drama
+s138,TV Show,Show D 138,,"Actor 138, Actor 139",UK,2020-05-08,2020,R,2 Seasons,Action
+s139,Movie,Show D 139,Director 139,"Actor 139, Actor 140",,2020-02-21,2016,PG,,Drama
+s140,TV Show,Movie E 140,Director 140,,USA,2020-11-15,2015,PG,1 Seasons,Drama
+s141,TV Show,Show C 141,Director 141,"Actor 141, Actor 142",USA,2020-01-09,2006,R,147 min,
+s142,Movie,Movie E 142,Director 142,,UK,,2012,TV-MA,2 Seasons,Drama
+s143,Movie,Show D 143,,"Actor 143, Actor 144",UK,,2004,TV-14,,Action
+s144,TV Show,Show D 144,Director 144,"Actor 144, Actor 145",India,2020-07-10,2009,,111 min,Sci-Fi
+s145,Movie,Movie E 145,,"Actor 145, Actor 146",India,,2014,PG-13,4 Seasons,Drama
+s146,Movie,Movie A 146,Director 146,"Actor 146, Actor 147",India,2020-05-10,2006,R,,Action
+s147,TV Show,Show D 147,Director 147,"Actor 147, Actor 148",USA,2020-04-18,2018,TV-MA,5 Seasons,Sci-Fi
+s148,Movie,Movie E 148,,"Actor 148, Actor 149",India,2020-12-18,2004,R,118 min,Action
+s149,TV Show,Movie B 149,Director 149,"Actor 149, Actor 150",USA,,2009,PG-13,2 Seasons,
+s150,TV Show,Show D 150,Director 150,,UK,2020-11-13,2008,R,121 min,Action
+s151,Movie,Show C 151,Director 151,,India,2020-02-10,2021,PG,,Comedy
+s152,TV Show,Show C 152,Director 152,"Actor 152, Actor 153",,2020-11-27,2022,,,Comedy
+s153,TV Show,Movie E 153,Director 153,"Actor 153, Actor 154",UK,,2017,PG,3 Seasons,Drama
+s154,TV Show,Movie A 154,Director 154,"Actor 154, Actor 155",UK,2020-07-02,2020,R,4 Seasons,Comedy
+s155,TV Show,Movie E 155,Director 155,"Actor 155, Actor 156",USA,2020-05-15,2016,,1 Seasons,Comedy
+s156,Movie,Show D 156,Director 156,,,,2011,TV-MA,,Thriller
+s157,TV Show,Show C 157,Director 157,"Actor 157, Actor 158",UK,2020-02-16,2011,R,142 min,Comedy
+s158,TV Show,Movie A 158,Director 158,"Actor 158, Actor 159",India,2020-10-16,2012,PG,140 min,Drama
+s159,TV Show,Movie A 159,Director 159,"Actor 159, Actor 160",UK,2020-06-01,2011,R,3 Seasons,Thriller
+s160,TV Show,Show C 160,Director 160,"Actor 160, Actor 161",Canada,2020-04-23,2016,PG,,Comedy
+s161,Movie,Show D 161,Director 161,"Actor 161, Actor 162",Canada,,2012,TV-MA,138 min,Thriller
+s162,TV Show,Show C 162,Director 162,"Actor 162, Actor 163",USA,,2010,R,146 min,Action
+s163,TV Show,Movie A 163,Director 163,"Actor 163, Actor 164",,2020-06-13,2007,TV-14,,
+s164,TV Show,Movie A 164,Director 164,"Actor 164, Actor 165",Canada,2020-08-01,2018,,160 min,Comedy
+s165,TV Show,Movie A 165,Director 165,,Canada,2020-12-01,2020,TV-14,129 min,
+s166,TV Show,Movie E 166,Director 166,"Actor 166, Actor 167",India,2020-08-17,2022,TV-MA,172 min,Drama
+s167,Movie,Movie A 167,,"Actor 167, Actor 168",UK,,2000,PG-13,5 Seasons,Thriller
+s168,TV Show,Movie A 168,,,USA,2020-10-14,2000,PG-13,,Comedy
+s169,TV Show,Movie B 169,Director 169,,UK,2020-11-09,2004,,145 min,
+s170,Movie,Movie A 170,Director 170,"Actor 170, Actor 171",Canada,2020-07-04,2008,TV-14,,Thriller
+s171,Movie,Movie E 171,Director 171,"Actor 171, Actor 172",,2020-09-13,2011,PG-13,2 Seasons,Drama
+s172,TV Show,Show D 172,Director 172,"Actor 172, Actor 173",USA,2020-04-03,2018,TV-14,5 Seasons,Comedy
+s173,TV Show,Movie A 173,Director 173,"Actor 173, Actor 174",India,2020-08-16,2010,,133 min,Action
+s174,Movie,Movie B 174,Director 174,"Actor 174, Actor 175",,,2018,PG,,Drama
+s175,Movie,Show C 175,,,,2020-06-19,2012,PG-13,2 Seasons,Thriller
+s176,TV Show,Show C 176,,"Actor 176, Actor 177",Canada,2020-08-20,2023,PG-13,160 min,Comedy
+s177,Movie,Movie A 177,Director 177,"Actor 177, Actor 178",USA,2020-06-08,2006,R,4 Seasons,Drama
+s178,TV Show,Movie A 178,Director 178,"Actor 178, Actor 179",,2020-07-01,2001,TV-MA,4 Seasons,
+s179,TV Show,Movie B 179,Director 179,"Actor 179, Actor 180",Canada,2020-09-22,2003,R,130 min,Action
+s180,Movie,Show D 180,Director 180,"Actor 180, Actor 181",UK,2020-09-25,2010,PG,,Comedy
+s181,Movie,Movie E 181,Director 181,,,,2001,PG-13,1 Seasons,Sci-Fi
+s182,Movie,Movie E 182,Director 182,"Actor 182, Actor 183",UK,2020-07-24,2016,PG-13,150 min,Thriller
+s183,TV Show,Movie E 183,,"Actor 183, Actor 184",USA,2020-03-13,2004,R,3 Seasons,Action
+s184,Movie,Movie A 184,Director 184,"Actor 184, Actor 185",,2020-07-07,2021,,149 min,Sci-Fi
+s185,TV Show,Movie A 185,Director 185,"Actor 185, Actor 186",USA,2020-11-01,2021,TV-14,161 min,
+s186,TV Show,Movie E 186,Director 186,,USA,2020-04-28,2005,R,2 Seasons,
+s187,Movie,Movie E 187,Director 187,"Actor 187, Actor 188",Canada,2020-12-21,2012,TV-14,4 Seasons,Thriller
+s188,TV Show,Movie A 188,Director 188,"Actor 188, Actor 189",India,2020-05-28,2006,TV-14,142 min,Sci-Fi
+s189,Movie,Show D 189,Director 189,"Actor 189, Actor 190",USA,2020-03-23,2019,PG,180 min,Thriller
+s190,TV Show,Movie E 190,,,,2020-02-13,2013,TV-14,95 min,
+s191,TV Show,Movie B 191,Director 191,"Actor 191, Actor 192",UK,2020-11-04,2012,PG-13,87 min,Sci-Fi
+s192,TV Show,Movie B 192,Director 192,,UK,2020-12-27,2006,PG-13,2 Seasons,Drama
+s193,Movie,Movie B 193,,"Actor 193, Actor 194",Canada,2020-07-18,2013,,173 min,
+s194,Movie,Show D 194,Director 194,"Actor 194, Actor 195",Canada,2020-12-26,2018,PG-13,105 min,Thriller
+s195,Movie,Movie A 195,Director 195,"Actor 195, Actor 196",UK,2020-11-12,2008,TV-MA,150 min,Action
+s196,Movie,Show C 196,Director 196,"Actor 196, Actor 197",UK,2020-11-15,2002,PG,2 Seasons,
+s197,TV Show,Movie B 197,Director 197,"Actor 197, Actor 198",,2020-07-18,2008,PG,4 Seasons,Comedy
+s198,TV Show,Movie B 198,,"Actor 198, Actor 199",,2020-04-04,2006,PG,161 min,Comedy
+s199,Movie,Show C 199,Director 199,"Actor 199, Actor 200",,2020-06-19,2002,PG-13,4 Seasons,Sci-Fi
+s200,Movie,Show D 200,Director 200,,UK,2020-01-11,2010,R,149 min,
