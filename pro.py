@@ -55,20 +55,5 @@ plt.ylabel("Country")
 plt.tight_layout()
 plt.show() 
 
-content_by_year=df.groupby(["release_year" , "type"]).size().unstack().fillna(0)
-fig,ax=plt.subplots(1,2 , figsize=(12,5))
-ax[0].plot(content_by_year.index, content_by_year["Movie"],color="skyblue")
-ax[0].set_title("Movie release per year")
-ax[0].set_xlabel("Year")
-ax[0].set_ylabel("Number of Movies")
 
-ax[0].plot(content_by_year.index, content_by_year["TV Show"],color="yellow")
-ax[0].set_title("Show release per year")
-ax[0].set_xlabel("Year")
-ax[0].set_ylabel("Number of TV Show")
-
-fig.suptitle("compromise TV Show and Movie over released", y=1.02)
-plt.tight_layout()
-#plt.savefig("movies_tv_show_comparision.png")
-plt.show()
 
